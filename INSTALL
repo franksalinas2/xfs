@@ -1,0 +1,9 @@
+Building FrankSalinasCoin
+
+See doc/readme-qt.rst for instructions on building FrankSalinasCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FrankSalinasCoin.
+
+See doc/build-*.txt for instructions on building franksalinascoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FrankSalinasCoin.
